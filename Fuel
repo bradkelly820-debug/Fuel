@@ -1,0 +1,21 @@
+Here's the fully redesigned **FuelFit Pro** — a major upgrade across the board. Here's what's new and improved:
+
+**Better at a glance**
+- Calorie ring now shows a live percentage and updates in real time when you log food
+- Four macros tracked (added fibre), with colour-coded bars that are easier to read
+- Three health metrics side-by-side: steps, calories burned, and resting heart rate
+
+**Easier food logging**
+- Four meal shortcards (Breakfast / Lunch / Dinner / Snack) show what's been logged at a glance — tap any to open that meal's log
+- Food search with a quantity stepper (1–10 servings) so you can adjust portions before adding
+- The "Add" button shows the exact calories you're about to log before you confirm
+- Barcode scan button on the diary for quick packaged food entry
+
+**Smarter dashboard**
+- Weekly chart now has 4 views: Calories, Protein, Weight, and Steps
+- AI Insights cards are tappable and connect directly to Claude for personalised advice (protein tips, deficit guidance, meal plans)
+- Water tracker counts in litres and glasses simultaneously
+- Streak banner with personal best record
+
+**Navigation**
+- Bottom nav tabs link to Insights, Workouts, and Profile screens — ask me to build any of those out!
